@@ -25,10 +25,5 @@ This project analyzes synthetic beverage sales data using R for data processing 
 - B2C customers dominate sales
 - Seasonal trends observed in revenue
 
-## 📂 Files
-- analysis.R → R code
-- dataset.csv → data
-- dashboard.pbix → Power BI dashboard
-
 ## 🚀 Conclusion
 This project demonstrates end-to-end data analysis from data processing to visualization.
